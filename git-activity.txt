@@ -1,2 +1,3 @@
 This is my first Git activity.
 I am Hailey Micaela Lumanglas from BSIS 3A.
+This is my direct change in the git-activity.txt file in the web browser.
